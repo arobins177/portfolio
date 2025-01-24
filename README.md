@@ -9,5 +9,5 @@ Johnson Electric Automotive
 
 ### Projects
 - Sample Tracking
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/269b5d3f-a98d-4495-9588-eb325467a402" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/269b5d3f-a98d-4495-9588-eb325467a402" />
 
