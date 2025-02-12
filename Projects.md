@@ -1,3 +1,3 @@
 layout: page
 title: "Projects"
-permalink: https://github.com/arobins177/portfolio/projects
+permalink: https://arobins177.github.io/portfolio/projects
