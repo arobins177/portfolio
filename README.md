@@ -11,7 +11,7 @@ Johnson Electric Automotive
 - Sample Tracking 1/24/25
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/269b5d3f-a98d-4495-9588-eb325467a402" />
 
--Employee Tracking 
+- Employee Tracking 
 
 - Senior Project
-
+[https://arobins177.github.io/portfolio/projects](https://arobins177.github.io/portfolio/projects)
