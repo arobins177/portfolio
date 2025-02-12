@@ -5,7 +5,7 @@ University of Dayton
 Computer Information Systems, B.S. Degree
 
 ### Work Experience
-Johnson Electric Automotive
+Johnson Electric Automotive test
 
 ### Projects
 - Sample Tracking 1/24/25
